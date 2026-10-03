@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.stalker-sync-cache.json
+*.tmp
+*.json
+!tests/**/*.json
+stalker-sync-patch-*.zip
+stalker-sync-backup/
